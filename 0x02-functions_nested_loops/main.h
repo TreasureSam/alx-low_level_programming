@@ -13,6 +13,7 @@ void times_table(void);
 int add(int n1, int n2);
 void print_to_98(int n);
 void print_times_table(int n);
+int add(int, int);
 int _isupper(int c);
 int _isdigit(int c);
 int mul(int a, int b);
