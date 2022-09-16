@@ -10,8 +10,8 @@
 int _isdigit(int c)
 {
  c = '0';
- printf("%c: %d\n", c, _isdigit(c));
- c = 'a';
- printf("%c: %d\n", c, _isdigit(c));
+ printf("%c: %d\n", c=0, _isdigit(c));
+ c = '9';
+ printf("%c: %d\n", c=9, _isdigit(c));
  return (0);
 }
