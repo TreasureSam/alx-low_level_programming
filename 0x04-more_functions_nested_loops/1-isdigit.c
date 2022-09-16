@@ -9,9 +9,9 @@
  * */
 int _isdigit(int c)
 {
- c = '0';
- printf("%c: %d\n", c=0, _isdigit(c));
- c = '9';
- printf("%c: %d\n", c=9, _isdigit(c));
- return (0);
+ if (c >= '0' && c <= '9')
+	 return (1);
+
+ else 
+	 return (0);
 }
