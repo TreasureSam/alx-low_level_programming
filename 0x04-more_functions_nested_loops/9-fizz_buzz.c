@@ -1,11 +1,14 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h
 
-/**
- * main - Entry point
- * Return: Always 0
+/** 
+ * main - FIZZ BUZZ CODE
+ *
+ * Return: void
  */
+
 int main(void)
+
 {
 	int i = 1;
 
