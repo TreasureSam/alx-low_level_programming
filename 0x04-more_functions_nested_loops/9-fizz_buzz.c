@@ -24,7 +24,7 @@ int main(void)
 			printf("Buzz");
 		}
 		{
-			printf("%i",i);
+			printf("%i", i);
 		}
 		if (i != 100)
 		{
