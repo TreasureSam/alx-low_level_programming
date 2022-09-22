@@ -18,5 +18,5 @@ void reverse_array(int *a, int n)
 *(a + j) = *(a + (j - 1));
 			*(a + (j - 1)) = temp;
 		}
-	}	
+	}
 }
