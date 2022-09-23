@@ -1,14 +1,12 @@
 #include <stdio.h>
-#include "main.h"
 
 /**
- * main - FIZZ BUZZ CODE
+ * main - Fizz Buzz code
  *
  * Return: void
  */
 
 int main(void)
-
 {
 	int i = 1;
 
@@ -26,6 +24,7 @@ int main(void)
 		{
 			printf("Buzz");
 		}
+		else
 		{
 			printf("%i", i);
 		}
@@ -33,6 +32,7 @@ int main(void)
 		{
 			putchar(' ');
 		}
+
 		i++;
 	}
 	putchar('\n');
