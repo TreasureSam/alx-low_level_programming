@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
-*create_array - creates an array of chars, and 
+* create_array - creates an array of chars, and
 * initializes it with a specific char.
-* @size: Size of the array 
-* @c: Character to insert 
-* Retrun: NULL if size is zero or if it fails.
+* @size: Size of the array
+* @c: Character to insert
+* return: NULL if size is zero or if it fails.
 * pointer to array if everything is normal.
 */
 
@@ -21,7 +21,7 @@ char *create_array(unsigned int size, char c)
 	if (array == NULL)
 		return (NULL);
 
-	for (index =0; index < size; index++)
+	for (index = 0; index < size; index++)
 		array[index] = c;
 
 	return (array);
