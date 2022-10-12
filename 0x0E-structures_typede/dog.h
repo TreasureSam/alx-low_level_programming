@@ -1,5 +1,5 @@
-#ifndef DOG_H
-#define DOG_H
+#ifndef BINGO_H
+#define BINGO_H
 
 /**
  * struct dog - Struct dog
@@ -22,4 +22,4 @@ void print_dog(struct dog *d);
 dog_t *new_dog(char *name, float age, char *owner);
 void free_dog(dog_t *d);
 
-#endif /*DOG_H*/
+#endif /*BINGO_H*/
