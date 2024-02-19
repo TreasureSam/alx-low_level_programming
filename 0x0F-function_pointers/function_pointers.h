@@ -1,5 +1,3 @@
-/**file contatins prototypes for the entire project of functions**/
-
 #ifndef FUNCTION_POINTERS_H
 #define FUNCTION_POINTERS_H
 
