@@ -8,7 +8,7 @@
 <<<<<<< HEAD
  * writted in the 0x15-file_io directory.
 =======
- * 	 writted in the 0x15-file_io directory.
+ *	writted in the 0x15-file_io directory.
 >>>>>>> 97daeef0040f19355a7616f2f294efce2f5e981a
  */
 
@@ -21,4 +21,4 @@
 	int create_file(const char *filename, char *text_content);
 	int append_text_to_file(const char *filename, char *text_content);
 
-#endif /* MAIN_H */
+#endif/* MAIN_H */
