@@ -4,8 +4,8 @@
 /*
  * file: main.h
  * Auth: Samuel Omotayo
- * Desc: Header file containing prototypes for all functions 
- * 	 writted in the 0x15-file_io directory.
+ * Desc: Header file containing prototypes for all functions
+ * writted in the 0x15-file_io directory.
  */
 
 	#include <sys/types.h>
