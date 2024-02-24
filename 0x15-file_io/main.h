@@ -5,7 +5,11 @@
  * file: main.h
  * Auth: Samuel Omotayo
  * Desc: Header file containing prototypes for all functions
+<<<<<<< HEAD
  * writted in the 0x15-file_io directory.
+=======
+ * 	 writted in the 0x15-file_io directory.
+>>>>>>> 97daeef0040f19355a7616f2f294efce2f5e981a
  */
 
 	#include <sys/types.h>
